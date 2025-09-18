@@ -1,11 +1,8 @@
-# Hi there 👋, my name my Mohammed
+# Hi there 👋, I'm Mohammed
 
 🌱 I’m currently a CS student at **KFU**  
 
 ---
-
-## 🔥 GitHub Stats
-[![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7m84)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
