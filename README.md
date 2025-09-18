@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammed
 
-🌱 I’m currently a CS student at **KFU**  
+I’m currently a CS student at **KFU**  
 
 ---
 
