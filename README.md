@@ -5,7 +5,7 @@
 ---
 
 ## 🔥 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7m84&show_icons=true&theme=tokyonight)
+[![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7m84)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
