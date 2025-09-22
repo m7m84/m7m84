@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammed
 
-I'm a **Computer Science student** passionate about coding, problem-solving, and building cool projects.  
+I'm a **Computer Science student** at **KFU** .  
 
 ---
 
@@ -23,8 +23,9 @@ I'm a **Computer Science student** passionate about coding, problem-solving, and
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7m84&layout=compact&theme=radical)
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7m84&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7m84&layout=compact&theme=radical)
+
 
 ---
 
