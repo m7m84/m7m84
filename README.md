@@ -14,5 +14,8 @@ I’m currently a CS student at **KFU**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7m84&layout=compact&theme=radical)
+
 ## ✨ Quote
 > "The best way to predict the future is to invent it." – Alan Kay
