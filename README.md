@@ -21,6 +21,15 @@ I'm a **Computer Science student** at **KFU** .
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
+## 💡 Interests
+I’m deeply interested in:  
+
+- **Artificial Intelligence (AI)** 🤖  
+- **Machine Learning (ML) & Deep Learning (DL)** 🧠  
+- **Cloud Computing** ☁️  
+- **Web Development** 🌐  
+- **Software Engineering** 💻  
+---
 
 ## 📊 GitHub Stats
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7m84&show_icons=true&theme=radical)
