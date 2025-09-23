@@ -24,8 +24,7 @@ I'm a **Computer Science student** at **KFU** .
 ## 💡 Interests
 I’m deeply interested in:  
 
-- **Artificial Intelligence (AI)** 🤖  
-- **Machine Learning (ML) & Deep Learning (DL)** 🧠  
+- **Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL)** 🤖🧠   
 - **Cloud Computing** ☁️  
 - **Web Development** 🌐  
 - **Software Engineering** 💻  
