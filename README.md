@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammed
 
-I'm a **Computer Science student** at **KFU** .  
+I'm currently a **Computer Science student** at **KFU** .  
 
 ---
 
