@@ -21,13 +21,13 @@ I'm currently a **Computer Science student** at **KFU** .
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
-## 💡 Interests
+##  Interests
 I’m deeply interested in:  
 
-- **Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL)** 🤖🧠   
-- **Cloud Computing** ☁️  
-- **Web Development** 🌐  
-- **Software Engineering** 💻  
+- **Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL)**    
+- **Cloud Computing**   
+- **Web Development**   
+- **Software Engineering**   
 ---
 
 ## 📊 GitHub Stats
@@ -37,7 +37,7 @@ I’m deeply interested in:
 
 ---
 
-## ✨ Quote of the Day
+##  Quote of the Day
 > "The best way to predict the future is to invent it." – Alan Kay
 
 ---
